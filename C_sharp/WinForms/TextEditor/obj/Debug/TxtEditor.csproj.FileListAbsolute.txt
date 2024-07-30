@@ -1,0 +1,31 @@
+D:\АиП\референсы текстового редактора\TxtEditor\bin\Debug\frmEditor.exe.config
+D:\АиП\референсы текстового редактора\TxtEditor\bin\Debug\frmEditor.exe
+D:\АиП\референсы текстового редактора\TxtEditor\bin\Debug\frmEditor.pdb
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\TxtEditor.csproj.AssemblyReference.cache
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\Text_Editor.TextEditor.resources
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\frmEditor.Properties.Resources.resources
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\TxtEditor.csproj.GenerateResource.cache
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\TxtEditor.csproj.CoreCompileInputs.cache
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\frmEditor.exe
+D:\АиП\референсы текстового редактора\TxtEditor\obj\Debug\frmEditor.pdb
+D:\АиП\TextEditor\bin\Debug\frmEditor.exe.config
+D:\АиП\TextEditor\bin\Debug\frmEditor.exe
+D:\АиП\TextEditor\bin\Debug\frmEditor.pdb
+D:\АиП\TextEditor\obj\Debug\Text_Editor.TextEditor.resources
+D:\АиП\TextEditor\obj\Debug\frmEditor.Properties.Resources.resources
+D:\АиП\TextEditor\obj\Debug\TxtEditor.csproj.GenerateResource.cache
+D:\АиП\TextEditor\obj\Debug\TxtEditor.csproj.CoreCompileInputs.cache
+D:\АиП\TextEditor\obj\Debug\frmEditor.exe
+D:\АиП\TextEditor\obj\Debug\frmEditor.pdb
+F:\АиП\TextEditor\bin\Debug\frmEditor.exe.config
+F:\АиП\TextEditor\bin\Debug\frmEditor.exe
+F:\АиП\TextEditor\bin\Debug\frmEditor.pdb
+F:\АиП\TextEditor\obj\Debug\TxtEditor.csproj.AssemblyReference.cache
+F:\АиП\TextEditor\obj\Debug\TxtEditor.csproj.SuggestedBindingRedirects.cache
+F:\АиП\TextEditor\obj\Debug\Text_Editor.TextEditor.resources
+F:\АиП\TextEditor\obj\Debug\frmEditor.Properties.Resources.resources
+F:\АиП\TextEditor\obj\Debug\TxtEditor.csproj.GenerateResource.cache
+F:\АиП\TextEditor\obj\Debug\TxtEditor.csproj.CoreCompileInputs.cache
+F:\АиП\TextEditor\obj\Debug\frmEditor.exe
+F:\АиП\TextEditor\obj\Debug\frmEditor.pdb
+D:\АиП\TextEditor\obj\Debug\TxtEditor.csprojAssemblyReference.cache

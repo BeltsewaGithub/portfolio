@@ -1,0 +1,148 @@
+E:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+E:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+E:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+E:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+E:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+E:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\Calculator1\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\Calculator1\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\Calculator1\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\Calculator1\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\Calculator1\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\Calculator1\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+D:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+E:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+E:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+E:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+E:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+E:\АиП\Calculator\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+E:\АиП\Calculator\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+E:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+E:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+E:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+E:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+E:\АиП\Calculator стэк\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+E:\АиП\Calculator стэк\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+F:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+F:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+F:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+F:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+F:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+F:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+D:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\АиП\Calculator нормальный\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\АиП\Calculator нормальный\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll

@@ -1,0 +1,9 @@
+D:\АиП\TextEditor\bin\Release\frmEditor.exe.config
+D:\АиП\TextEditor\bin\Release\frmEditor.exe
+D:\АиП\TextEditor\bin\Release\frmEditor.pdb
+D:\АиП\TextEditor\obj\Release\Text_Editor.TextEditor.resources
+D:\АиП\TextEditor\obj\Release\frmEditor.Properties.Resources.resources
+D:\АиП\TextEditor\obj\Release\TxtEditor.csproj.GenerateResource.cache
+D:\АиП\TextEditor\obj\Release\TxtEditor.csproj.CoreCompileInputs.cache
+D:\АиП\TextEditor\obj\Release\frmEditor.exe
+D:\АиП\TextEditor\obj\Release\frmEditor.pdb

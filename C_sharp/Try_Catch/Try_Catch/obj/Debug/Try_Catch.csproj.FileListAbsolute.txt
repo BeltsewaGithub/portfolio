@@ -1,0 +1,7 @@
+D:\алгоритмизация\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe.config
+D:\алгоритмизация\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe
+D:\алгоритмизация\Try_Catch\Try_Catch\bin\Debug\Try_Catch.pdb
+D:\алгоритмизация\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csproj.AssemblyReference.cache
+D:\алгоритмизация\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csproj.CoreCompileInputs.cache
+D:\алгоритмизация\Try_Catch\Try_Catch\obj\Debug\Try_Catch.exe
+D:\алгоритмизация\Try_Catch\Try_Catch\obj\Debug\Try_Catch.pdb

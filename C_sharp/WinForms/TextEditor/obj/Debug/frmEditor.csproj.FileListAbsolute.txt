@@ -1,0 +1,21 @@
+E:\frmEditor\obj\Debug\frmEditor.csproj.AssemblyReference.cache
+E:\frmEditor\obj\Debug\Text_Editor.frmEditor.resources
+E:\frmEditor\obj\Debug\frmEditor.Properties.Resources.resources
+E:\frmEditor\obj\Debug\frmEditor.csproj.GenerateResource.cache
+E:\frmEditor\obj\Debug\frmEditor.csproj.CoreCompileInputs.cache
+E:\frmEditor\bin\Debug\frmEditor.exe.config
+E:\frmEditor\bin\Debug\frmEditor.exe
+E:\frmEditor\bin\Debug\frmEditor.pdb
+E:\frmEditor\obj\Debug\frmEditor.exe
+E:\frmEditor\obj\Debug\frmEditor.pdb
+F:\АиП\референсы текстового редактора\frmEditor\bin\Debug\frmEditor.exe.config
+F:\АиП\референсы текстового редактора\frmEditor\bin\Debug\frmEditor.exe
+F:\АиП\референсы текстового редактора\frmEditor\bin\Debug\frmEditor.pdb
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.csproj.AssemblyReference.cache
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.csproj.SuggestedBindingRedirects.cache
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\Text_Editor.TextEditor.resources
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.Properties.Resources.resources
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.csproj.GenerateResource.cache
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.csproj.CoreCompileInputs.cache
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.exe
+F:\АиП\референсы текстового редактора\frmEditor\obj\Debug\frmEditor.pdb

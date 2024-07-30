@@ -1,0 +1,10 @@
+G:\АиП\Comparator\bin\Debug\Comparator.exe.config
+G:\АиП\Comparator\bin\Debug\Comparator.exe
+G:\АиП\Comparator\bin\Debug\Comparator.pdb
+G:\АиП\Comparator\obj\Debug\Comparator.csproj.AssemblyReference.cache
+G:\АиП\Comparator\obj\Debug\Comparator.csproj.CoreCompileInputs.cache
+G:\АиП\Comparator\obj\Debug\Comparator.exe
+G:\АиП\Comparator\obj\Debug\Comparator.pdb
+E:\АиП\Comparator\bin\Debug\Comparator.exe.config
+E:\АиП\Comparator\obj\Debug\Comparator.exe
+E:\АиП\Comparator\obj\Debug\Comparator.pdb
